@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Spirit ser UPDATED✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated DARK BOT😍*",
-            "AFTER_UPDATE": "*spirit ser Restarting😎*"
+            "AFTER_UPDATE": "*DARK BOT  Restarting😎*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
