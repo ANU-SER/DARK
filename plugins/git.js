@@ -16,13 +16,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Githublink (Setup)* :    https://github.com/SPlRlT-YT/Spirit-ser
 
-*Audio commads* :   https://github.com/SPlRlT-YT/Spirit-ser/tree/master/uploads
+*Audio commads* :   https://github.com/ANUSER1/DARK/tree/master/uploads
 
-*Sticker commads* : https://github.com/SPlRlT-YT/Spirit-ser/tree/master/sticker
+*Sticker commads* : https://github.com/ANUSER1/DARK/tree/master/sticker
 
-*My channel* : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
+*My instagram * : _0anshid0_ 
+*My number*     : 916238560742
 
-*For More Updates Subscribe The Channel ☝*
+*For More Updates cantact me ☝*
 `}) 
 
 }));
