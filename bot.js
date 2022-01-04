@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Spirit ser working!')
+            chalk.green.bold('✅ DARK BOT IS working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *Spirit ser ERROR!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *DARK BOY ERROR!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n     https://chat.whatsapp.com/CIPPgWUM0cXBLBmtnsHylf ' 
                                     , MessageType.text);
                             }
                         }
