@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'*SPlRlT SER Bot created by SPlRlT *' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*꧁𝐃𝐀𝐑𝐊꧂ 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐀𝐍𝐒𝐇𝐈𝐃 *' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -36,10 +36,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'*SPlRlT SER Bot created by SPlRlT💝*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*꧁𝐃𝐀𝐑𝐊꧂  𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐀𝐍𝐒𝐇𝐈𝐃*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + '*𝐇𝐄 𝐈𝐒 𝐌𝐘 𝐁𝐎𝐒𝐒 𝐀𝐍𝐃 𝐎𝐖𝐍𝐄𝐑*', MessageType.text);
         }
     }));
 }
