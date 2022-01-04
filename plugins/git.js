@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
  await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐀𝐍𝐒𝐇𝐈𝐃*
  
 ____________________________________________________________________________
-|*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑 : wa.me/916238560742?text=Hi%20spirit%20.%20*
+|*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑 : wa.me/916238560742?text=Hi%20ANSHID%20.%20*
 |_____________________________________________________________________________
 |*𝐀𝐍𝐒𝐇𝐈𝐃 𝐁𝐎𝐓 𝐆𝐑𝐔𝐎𝐏* : https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4
 |_____________________________________________________________________________
