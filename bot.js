@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *DARK BOT ERROR!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n     https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4 ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Report errors\njoin with +91 \n    https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf  ' 
                                     , MessageType.text);
                             }
                         }
